@@ -1,0 +1,18 @@
+2. Add 3 numbers, print the total.
+
+A. Promt user to imput 3 numbers in 3 seperate boxes.
+   Alforithm- x + y + z
+   put the 3 numbers into 3 seperate variables, x, y, z
+   add the 3 variables together
+   output result
+   
+B. input- the three numerical values
+   processing- x+y+z
+   output- the resulting numerical value  
+   
+c. Sequence order
+
+D. x,y,z for each variable
+
+E. 2 + 2 + 2 = 6
+   3 + 3 + 3 = 9

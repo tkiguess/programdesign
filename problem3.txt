@@ -1,0 +1,23 @@
+Find the average score
+
+
+A. Prompt the user to put in all the scores, in seperate boxes
+   put all the numbers into seperate variables
+   Add the variables to get a total
+   Divide the total by 10
+   Display the variables on the screen
+
+B. 
+   Input= all idividual test scores, a-h
+   processing steps=(a+b+c+d+e+f+g+h+i+h) / 10
+   output= the result of the equation imputted on screen
+   
+C. Sequence output
+
+D. Variables for each scores so from a-h, each a variable.
+
+E. 4+5+4+4+6+5+6+5+5+7=
+
+
+
+

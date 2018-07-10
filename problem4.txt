@@ -1,0 +1,22 @@
+
+4. How much water runs off a roof in a rain storm?
+
+A. prompt user 2 sepeate boxex for the dimentions of the roof.
+   put them into variables x,y.
+   multiply X and Y spperately by 12 to get them into inches
+   multiply the result of x and y
+   divide the result by 231 to get the number of gallons being used.
+   prompt that on the screen
+   
+B. Input- get the length adn the width and put them in x and y*12
+   Process- (x *12)(y*12)=z
+            z/231
+	output= the result of the calculation
+   
+C. Sequence strictures
+   
+D. x and y for the length and width, z to hold the result of this calculation: (x *12)(y*12)
+
+
+   
+ 
